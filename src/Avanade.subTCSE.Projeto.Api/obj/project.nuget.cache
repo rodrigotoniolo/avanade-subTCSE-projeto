@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4SGRNoFMb6o4fBDGTy2oC5AFh6hi0gy6QMBD1s8uJcAUSPsVzxhvINR7Xrppmh4Kgaa+sBNl26Nnv03aNrcMw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\r.argenta.toniolo\\OneDrive - Avanade\\projetos\\avanade-subTCSE-projeto\\src\\Avanade.subTCSE.Projeto\\Avanade.subTCSE.Projeto.Api\\Avanade.subTCSE.Projeto.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
